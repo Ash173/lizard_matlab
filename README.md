@@ -14,3 +14,8 @@ d. a decrement of 0.3 unit in Y-axis if downarrow is detected
 4. Each keypress (even if not arrow buttons) also changes the lizard link
 orientation/position to show a walking-like animation.
 5. The entire lizard does NOT change orientation, it just walks sideways/front-back
+
+## Animation video
+
+https://github.com/Ash173/lizard_matlab/assets/110592725/4b71c2d4-e59c-442a-85e2-684c253c92d9
+
